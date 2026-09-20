@@ -1,3 +1,13 @@
+## 📊 Dashboard Previews
+
+### Page 1: Operational Throughput & Financial Status
+![Page 1 Preview](pagina1.png)
+
+### Page 2: Risk & Compliance Analytics
+![Page 2 Preview](pagina2.png)
+
+---
+
 # Supply Chain Analytics & Optimization Dashboard
 
 An interactive, enterprise-grade Business Intelligence solution developed in **Power BI Desktop** to diagnose supply chain throughput inefficiencies, analyze macro financial trajectories, and map high-risk compliance vulnerabilities.
